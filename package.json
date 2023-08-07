@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
